@@ -1,0 +1,8 @@
+{
+  "name": "node-libpoker",
+  "version": "0.0.1",
+  "description": "Node.js lib-poker Addon",
+  "main": "libpoker.js",
+  "private": true,
+  "gypfile": true
+}
